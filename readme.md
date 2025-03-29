@@ -14,7 +14,7 @@ Welcome to my Computer Science portfolio website! This project showcases my skil
 /portfolio-website
 │── index.html        # Main HTML file
 │── styles/           # CSS files for styling
-│── scripts/          # JavaScript files for interactivity
+│── scripts/          # JavaScript files for  |interactivity
 │── assets/           # Images, icons, and other assets
 └── README.md         # Documentation file
 ```
